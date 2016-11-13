@@ -15,8 +15,8 @@ namespace Menu
                                                         "3.Która liczba została wylosowana najmniej razy?",
                                                         "4.Czy kiedykolwiek nastąpiło powtórzenie?",
                                                         "5.Jakie wyniki wylosowano danego dnia?",
-                                                        "6. Rok",
-                                                        "7. Miesiac"
+                                                        "6.Jakie wyniki wylosowano w danym roku?",
+                                                        "7.Jakie wyniki wylosowano w danym miesiącu?"
                                                     };
         private static int x0 = (Console.WindowWidth / 2) ;
         private static int y0 = (Console.WindowHeight / 2);
